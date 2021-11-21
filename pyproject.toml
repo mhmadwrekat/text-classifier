@@ -5,12 +5,14 @@ description = ""
 authors = ["mhmad wrekat <mhmmadwreekkat@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "~3.9"
 matplotlib = "^3.5.0"
 jupyterlab = "^3.2.4"
 pandas = "1.2.1"
 sklearn = "^0.0"
 seaborn = "^0.11.2"
+keras = "^2.7.0"
+tensorflow = "^2.7.0"
 
 [tool.poetry.dev-dependencies]
 
